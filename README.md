@@ -1,5 +1,5 @@
-# JNNCE
-This is JNNCECSE Repository
+# JNNCECSE
+This is JNNCE Repository
 <br>
 venue : shivamogga
 
